@@ -99,18 +99,16 @@ Olá, eu sou Vinícius Gomes, estudante de Engenharia de Software, apaixonado po
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
-<div style="display: flex; align-items: center;">
+<div align="center">
   <img 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api?username=ViniciusGGomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
-    height="200" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGGomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
+
