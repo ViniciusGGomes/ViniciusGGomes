@@ -108,11 +108,12 @@ Olá, eu sou Vinícius Gomes, estudante de Engenharia de Software, apaixonado po
     src="https://github-readme-stats.vercel.app/api?username=ViniciusGGomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGGomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGGomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3&cache_seconds=30" 
+/>
+
 
 </p>
