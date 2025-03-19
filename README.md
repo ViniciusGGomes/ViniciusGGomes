@@ -106,7 +106,7 @@ Olá, eu sou Vinícius Gomes, estudante de Engenharia de Software, apaixonado po
     alt="GitHub Stats" 
     height="170" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusGGomes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"&cache_seconds=30" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusGGomes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=30"
   />
 
 <img 
