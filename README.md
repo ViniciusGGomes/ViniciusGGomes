@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, eu sou Vinícius Gomes, estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de software. Tenho 21 anos e estou sempre explorando novas tecnologias para aprimorar meus conhecimentos e aplicá-los em projetos, buscando constantemente desafios que me ajudem a evoluir como desenvolvedor.
+Olá, eu sou Vinícius Gomes, estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de software. Estou sempre explorando novas tecnologias para aprimorar meus conhecimentos e aplicá-los em projetos, buscando constantemente desafios que me ajudem a evoluir como desenvolvedor.
 
 ### 🤖 Linguagens e Tecnologias
 
